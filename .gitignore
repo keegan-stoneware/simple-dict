@@ -1,0 +1,15 @@
+# Ignore build generated files
+build/
+dist/
+coverage/
+dist.zip
+
+# Ignore waf lock file
+.lock-waf*
+
+# Ignore installed node modules
+node_modules/
+
+# Ignore CLion files
+.idea/
+
