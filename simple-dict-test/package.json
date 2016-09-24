@@ -1,0 +1,30 @@
+{
+  "name": "simple-dict-test",
+  "author": "Keegan Lillo",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {
+    "simple-dict": "../"
+  },
+  "pebble": {
+    "displayName": "simple-dict-test",
+    "uuid": "daa030ac-7cf5-4ec6-a5a1-a4e309c50134",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "messageKeys": [
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}
