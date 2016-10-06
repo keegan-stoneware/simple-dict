@@ -5,7 +5,7 @@
   "keywords": ["pebble-app"],
   "private": true,
   "dependencies": {
-    "simple-dict": "../"
+    "@keegan-stoneware/simple-dict": "../"
   },
   "pebble": {
     "displayName": "simple-dict-test",

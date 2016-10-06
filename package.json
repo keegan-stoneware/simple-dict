@@ -1,11 +1,11 @@
 {
-  "name": "simple-dict",
+  "name": "@keegan-stoneware/simple-dict",
   "author": "Keegan Lillo",
   "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/keegan-lillo/simple-dict.git"
+    "url": "https://github.com/keegan-stoneware/simple-dict.git"
   },
   "files": [
     "dist.zip"

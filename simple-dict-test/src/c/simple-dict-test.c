@@ -1,6 +1,6 @@
 #include <pebble.h>
 
-#include <simple-dict/simple-dict.h>
+#include <@keegan-stoneware/simple-dict/simple-dict.h>
 
 static const char *prv_get_result_string(bool result) {
   return result ? "PASS" : "FAIL";
